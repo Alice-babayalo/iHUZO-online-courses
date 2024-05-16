@@ -1,0 +1,29 @@
+h1{
+    color: blueviolet;
+    background-color: aqua;
+    font-size: 20px;
+}
+p{
+    color: slategray;
+    text-align: right;
+    line-height: 30px;
+    letter-spacing: 2px;
+    column-count: 2;
+    column-gap: 60px;
+}
+
+ul{
+    border-width: 4px;
+    border-style:double;
+    border-color: #440044;
+}
+li{
+    list-style-type: upper-alpha;
+    text-shadow: 2px 2px #fff100;
+}
+div{
+    border: 2px solid crimson;
+    margin: 20px;
+    padding: 30px;
+    border: 2px dotted #0000;
+}
